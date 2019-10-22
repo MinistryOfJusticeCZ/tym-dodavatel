@@ -5,8 +5,8 @@
 | Windows          | Internet Explorer 8-10                 | funkční     |
 | Windows          | Internet Explorer 11                   | compliant   |
 | Windows          | Edge (poslední 2 verze)                | compliant   |
-| Windows          | Google Chrome (poslední 2 verze)       | compliant   |
-| Windows          | Mozilla Firefox (poslední 2 verze)     | compliant   |
+| Windows/Linux    | Google Chrome (poslední 2 verze)       | compliant   |
+| Windows/Linux    | Mozilla Firefox (poslední 2 verze)     | compliant   |
 | macOS            | Safari 9+                              | compliant   |
 | macOS            | Google Chrome (poslední 2 verze)       | compliant   |
 | macOS            | Mozilla Firefox (poslední 2 verze)     | compliant   |
