@@ -10,7 +10,7 @@ _Před začátkem discovery vyplňte s portfolio manažerem_
 ### Název projektu
 _Zkrácený název projektu (například, „Ověření osob", „aplikace pro osoby se zdravotním postižením“, „navigátor benefity)_
 
-### Definice problému / Jak bycho mohli
+### Definice problému / Jak bychom mohli
 Jaký problém se snažíme vyřešit? Proč to děláme? (zaměřte se na problémy, ne možná řešení)
 
 ### Jak se váš Discovery Sprint Tým bude jmenovat? 
@@ -52,13 +52,13 @@ Podívejte se na [ukázku rozpisu discovery sprintu](discovery-sprint-rozpis.md)
 
 * Existují nějaké pevné a rychlé termíny pro dokončení discovery?
 * Kdy se bude konat následující?
-   * Discovery příprava:
-   * Discovery (ideálně 1-2 týdny):
-   * Výzkum uživatelů:
-   * Zakončení a předání výsledků:
+  * Discovery příprava:
+  * Discovery (ideálně 1-2 týdny):
+  * Výzkum uživatelů:
+  * Zakončení a předání výsledků:
 
 ## Po dokončení
-_Vyplnit Sprint Tým_
+_Vyplní Sprint Tým_
 
 * Lessons learned (o discovery procesu)
 * Odkazy na podstatné dokumenty (prezentace s výsledky discovery, Charta atd.)

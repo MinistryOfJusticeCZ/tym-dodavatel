@@ -44,7 +44,7 @@
 
 ### Zoom na 400 %
 
-- Nastavte šířku prohlížeše na 1280px
+- Nastavte šířku prohlížeče na 1280px
 - Přibližte stránky stisknutím `Ctrl a +` na Windows nebo `Cmd a +` na Mac, pokud přohlížeš nepřiblíží stránku na 400 %.
 - Většina obsahu nesmí scrollovat do stran. Horizontální scrollování je povoleno pouze pro obsah jako obrázky, mapy, diagramy, prezentace, a datové tabulky
 - [Understanding Success Criterion 1.4.10: Reflow](https://www.w3.org/WAI/WCAG21/Understanding/reflow.html)
@@ -52,7 +52,7 @@
 
 ### Navigace pomocí klávesnice
 
-- Ujistěte se, že všechny prvky, které příjmají stav :focus (odkazy, vstupní pole formuláře, tlačítka, přepínače, zaškrtávací pole) jsou dosažitelné klávesnicí. Ujistěte se, že jakékoliv prvky s `tabIndex="0"` jsou normálně fokusovatelné
+- Ujistěte se, že všechny prvky, které přijímají stav :focus (odkazy, vstupní pole formuláře, tlačítka, přepínače, zaškrtávací pole) jsou dosažitelné klávesnicí. Ujistěte se, že jakékoliv prvky s `tabIndex="0"` jsou normálně fokusovatelné
 - Tam, kde je to možné, používejte vhodné sémantické prvky
 - Vyhněte se pastím na klávesy. Jedná se o situace, kdy se uživatelé mohou pomocí klávesy `TAB` někam v interfacu dostat, ale dalším stiskem klávesy `TAB` nebo `SHIFT+TAB` se z něj už nedostanou
 - Ujistěte se, že vaše aplikace má předvídatelné pořadí prvků (tabbing order). V jazycích, kde se čte zleva-doprava, shora dolů. V několika sloupcových pohledech použijte svůj nejlepší úsudek. Interfacy, které obsahují levé navigační menu, zpravidla umožňují fokus pro každý odkaz nebo tlačítko v levém menu, a pak přesunout fokus do místa s hlavním obsahem
@@ -77,4 +77,4 @@ Testujte barvoslepost pomocí nástrojů jako:
 - [Barevná paleta GOV.UK Design System](https://design-system.service.gov.uk/styles/colour/)
 
 ## Pokračovat ve čtení
-Zkraktově můžete přístupnost pochopit pomocí plakátů na url: https://github.com/MinistryOfJusticeCZ/plakaty/tree/master/accessibility/dos-donts/posters_cz
+Zkratkovitě tomůžete přístupnost pochopit pomocí plakátů na url: https://github.com/MinistryOfJusticeCZ/plakaty/tree/master/accessibility/dos-donts/posters_cz

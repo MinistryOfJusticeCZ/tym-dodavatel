@@ -26,7 +26,7 @@ Vyberte, zda budete dělat dvou nebo jedno týdenní sprint a vyplňte informace
 
 - Pokračování s rozhovory; pokud potřebujete více informací, požádejte o další
 - Mluvte a pozorujte skutečné uživatelé
-- Dejte dohromady vše, co jste se naučili, formulujte hypotézy, poznamejte si oblasti, kde máte otázníky
+- Dejte dohromady vše, co jste se naučili, formulujte hypotézy, poznamenejte si oblasti, kde máte otázníky
 - Udělejte seznam těchto otázníků, a zjistěte, s kým dalším musíte mluvit - sestavte plán
 
 **Čtvrtek**

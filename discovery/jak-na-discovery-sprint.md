@@ -19,7 +19,7 @@ Na konci discovery sprintu, budeme mít dobré porozumění o:
 
 - Systémech, týmech, lidech, kterých se to týká
 - Potřeby uživatelů a jejich motivace
-  - kdo jsou našimi praveděpodní uživatelé
+  - kdo jsou naši praveděpodní uživatelé
   - co se snaží udělat
   - jak to teď dělají
   - problémy a frustrace, které prožívají
@@ -48,7 +48,7 @@ Aby výstupy byly rychle, měl by Discovery Sprint Týmu být malý (3 až 5 oso
 
 - Vedení projektu
 - Design (např. user experience, výzkum, vizuální atd.)
-- technologické znalosti ve vhodných částích (např. systémy, data science, frontend atd.)
+- technologické znalosti ve vhodných částech (např. systémy, data science, frontend atd.)
 - vyzná se v nařízeních a politikách
 - produktový management
 
@@ -66,7 +66,7 @@ V ideálním případě by členové týmu měli být dedikováni **po celou dob
 Aby se maximalizovala účinnost během sprintu, měl by se vedoucí Discovery Týmu připravit na sprint 1 až 2 týdny předem. Tým by se měl setkat alespoň jednou předtím, než sprint začne začnou potkávat pravidlně. 
 
 #### Checklist:
-- [ ] Pro dokumentaci cílů, předpokladů, metod, seznam stakeholderů dokončete [Šablonu Popisu a plánu Discovery projektu](popis-plan-discovery-projekt-sablona.md), kterou jste začli během pre-discovery fáze
+- [ ] Pro dokumentaci cílů, předpokladů, metod, seznam stakeholderů dokončete [Šablonu Popisu a plánu Discovery projektu](popis-plan-discovery-projekt-sablona.md), kterou jste začali během pre-discovery fáze
 - [ ] Uspořádejte kick-off meeting s Discovery Sprint Týmem
 - [ ] Pošlete odkaz na zcela vyplněný dokument Popis a plán Discovery projektu, abyste mohli začít sprint
 - [ ] Vytvořte issue s tagem Plán výzkum a odkažte na zcela vyplněný dokument Popis a plán Discovery projektu, a přidejte jakékoli doplňující údaje jako datum uživatelských výzkumů, časy, kritéria pro účastníky

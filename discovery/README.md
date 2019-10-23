@@ -9,7 +9,7 @@
 
 ### Plánování Discovery sprintu
 
-- [ ] Pro dokumentaci cílů, předpokladů, metod, seznam stakeholderů dokončete [Šablonu Popisu a plánu Discovery projektu](popis-plan-discovery-projekt-sablona.md), kterou jste začli během pre-discovery fáze
+- [ ] Pro dokumentaci cílů, předpokladů, metod, seznam stakeholderů dokončete [Šablonu Popisu a plánu Discovery projektu](popis-plan-discovery-projekt-sablona.md), kterou jste začali během pre-discovery fáze
 - [ ] Uspořádejte kick-off meeting s Discovery Sprint Týmem
 - [ ] Pošlete odkaz na zcela vyplněný dokument Popis a plán Discovery projektu, abyste mohli začít sprint
 - [ ] Vytvořte issue s tagem Plán výzkum a odkažte na zcela vyplněný dokument Popis a plán Discovery projektu, a přidejte jakékoli doplňující údaje jako datum uživatelských výzkumů, časy, kritéria pro účastníky

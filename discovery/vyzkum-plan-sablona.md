@@ -3,7 +3,7 @@
 
 ## Cíle
 1. Pro jaký produkt děláte tento výzkum?
-2. Background: Stručně, jaké je background tohoto produktu? Co by nová osoba v týmu měla o tomto produktu vědět?
+2. Background: Stručně, jaký je background tohoto produktu? Co by nová osoba v týmu měla o tomto produktu vědět?
 3. Otázky během výzkumu: Na jaké otázky doufáte, že budete schopni odpovědět po dokončení tohoto výzkumu?
 4. Hypotéza: Jaká je vaše hypotéza pro tento výzkum?
 
@@ -34,9 +34,7 @@
 
 2. Připravte se: Kdy bude testovaná věc připravena? (Mělo by to být několik dní, než začne testování)
 
-3. Length of Sessions: How long do you estimate each session will be? (This helps with scheduling & thank you gifts.) e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours) 
-
-Délka session: Jak dlouho odhadujete, že každá sessiona bude trvat? (Toto pomáhá s plánováním a s děkovnými dary). Například, 30 minut, <1 hodina, až 2 hodiny, až 4 hodiny
+3. Délka session: Jak dlouho odhadujete, že každá sessiona bude trvat? (Toto pomáhá s plánováním a s děkovnými dary). Například, 30 minut, <1 hodina, až 2 hodiny, až 4 hodiny
 
 4. Dostupnost: Kdy byste chtěli naplánovat relace? **Uveďte přesné data a časy**. Vyžádejte si dostatek dat a časových úseků (například, pondělí 9-13h, 15-16h; úterý 9-18h atd.). Buďte co nejvíce flexibilní, uvědomte si, že mnoho uživatelů je k dispozici pouze před nebo po pracovní době a nemusí žít v Praze.
 

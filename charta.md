@@ -49,7 +49,7 @@ Přehodnocení dosažených výsledků z předchozího sprintu, co šlo dobře, 
 #### Grooming
 Zhodnocení a aktualizace zatížení pro zbytek sprintu
 
-- Druhý čtvrtek každého sprinut
+- Druhý čtvrtek každého sprintu
 - 1 hodina
 - _nějaké další poznámky, co můžete mít_
 

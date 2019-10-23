@@ -24,13 +24,13 @@
 - [ ] ujistěte se, že jste virtuální aplikaci otevřeli
 - [ ] ujistěte se, že jste vypnuli všechny notifikace, a všechny ostatní nežádoucí aplikace
 - [ ] ujistěte se, že jsou účastníci virtuálního meetingu ztišeni
-- [ ] mějte svého průvodce konverzací někde, kde ho účastník testování neuvídí
+- [ ] mějte svého průvodce konverzací někde, kde ho účastník testování neuvidí
 
 ## Po sessionách
-- [ ] Na konci každé sessiony vemte hlavních 3 až 5 zjištění pozorovatele a seskuptejte
+- [ ] Na konci každé sessiony vezměte hlavních 3 až 5 zjištění pozorovatele a seskupte je
 - [ ] Přečtěte si průvodce konverzací a na základě údajů od uživatelů a pozorovatelů případně změňte textaci
 - [ ] Spolupracujte s pozorovatelem, aby všechny poznámky byly předány do složky projektu v Gitu
-- [ ] Až budete mít přepisy, rozhodněte se, jak chcete ukládat záznamy session (jako úplné relace ve vašem notebooku? Zásaní úryvky nahrané do Git?) A ujistěte se, že k tomu rozhodnutí dojde
+- [ ] Až budete mít přepisy, rozhodněte se, jak chcete ukládat záznamy session (jako úplné relace ve vašem notebooku? Zásadní úryvky nahrané do Git?) A ujistěte se, že k tomu rozhodnutí dojde
 - [ ] Proveďte analýzu zjištění
 - [ ] Spolupracujte s týmem Ministerstva spravedlnosti na vkládání issues do Gitu
 - [ ] Jakýkoliv potřebné věci vytvořte jako ticket na helpdesku

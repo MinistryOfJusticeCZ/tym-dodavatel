@@ -22,7 +22,7 @@ Než začneme, chci zmínit několik věcí:
 - [POKUD JE TO VHODNÉ:] **Budete testovat prototypy a demo nástroje.** Toto je demo nástroj, který nemusí fungovat přesně tak, jak očekáváte. Na některé oblasti prototypu bude možné kliknout a některé nikoli.
 - **Pokud kdykoli a z jakéhokoli důvodu bude chtít sessionu zastavit, dejte mi prosím vědět.** 
 - **Nebude vám vadit, pokud nahraji obrazovku a zvuk, jak budeme spolu dnes mluvit?** Nahrávky používáme jako důkaz toho, že jsme vaše názory získali přesně. Po dokončení analýzy budou nahrávky zničeny a žádný z vašich komentářů vám nebude přímo přiřazen.
-    - Pokud nebude: **Jakmile začnu nahrávat, ještě jednou si potvrdím, že vám nevadí nahravání této sessiony.** 
+    - Pokud nebude: **Jakmile začnu nahrávat, ještě jednou si potvrdím, že vám nevadí nahrávání této sessiony.** 
 
 *Začíná nahrávání.*
 
@@ -42,7 +42,7 @@ Než se podíváme na web, začněme několika zahřívacími otázkami.
 ### Na co si dávat pozor:
 
 - [Chápe účastník smysl xyz?]
-- [Všimnul si účastník xyz?]
+- [Všiml si účastník xyz?]
 - [Atd]
 
 ## Druhý úkol: [NÁZEV_ÚKOLU] - X minut
@@ -53,7 +53,7 @@ Než se podíváme na web, začněme několika zahřívacími otázkami.
 ### Na co si dávat pozor:
 
 - [Chápe účastník smysl xyz?]
-- [Všimnul si účastník xyz?]
+- [Všiml si účastník xyz?]
 - [Atd]
 
 ## Třetí úkol: [NÁZEV_ÚKOLU] - X minut
@@ -64,7 +64,7 @@ Než se podíváme na web, začněme několika zahřívacími otázkami.
 ### Na co si dávat pozor:
 
 - [Chápe účastník smysl xyz?]
-- [Všimnul si účastník xyz?]
+- [Všiml si účastník xyz?]
 - [Atd]
 
 ## Rozhovor po úkolech - X minut

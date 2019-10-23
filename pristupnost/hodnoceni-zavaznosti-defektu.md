@@ -1,5 +1,5 @@
 # Určování závažnosti defektů přístupnosti
-Tento dokument bude poskytovat společný jazyk pro určování závažnosti defektů týkajích se přístupnosti. Zachycuje následující:
+Tento dokument bude poskytovat společný jazyk pro určování závažnosti defektů týkajících se přístupnosti. Zachycuje následující:
 
 1. Závažnost defektu
 2. Dopad na potenciální uživatele ovlivněné defektem
@@ -31,8 +31,8 @@ Tento dokument bude poskytovat společný jazyk pro určování závažnosti def
 * Nepřístupný obsah bohatý na informace jako video je bez titulků
 * Problémy s barevným kontrastem
 * Chybějící názvy formulářových polí
-* Dynamický obsah je přidáván nebo odstaraňován ze stránky bez ohlášení změny asistenčním pomůckám
-* UI nebo prvnky formuláře nejsou dosažitelné klávesou `TAB` nebo `SHIFT + TAB`
+* Dynamický obsah je přidáván nebo odstraňován ze stránky bez ohlášení změny asistenčním pomůckám
+* UI nebo prvky formuláře nejsou dosažitelné klávesou `TAB` nebo `SHIFT + TAB`
 * Obsah bez jasného označení stavu :focus
 
 ### Dopad na potenciální uživatele
@@ -51,7 +51,7 @@ Tento dokument bude poskytovat společný jazyk pro určování závažnosti def
 * Přiblížený text je použitelný pouze za pomoci horizontální scrollování, text těžko k přečtení
 * Problémy pro barvoslepé (například, barva je jediným nositelem informace)
 * Názvy polí nebo tlačítka nejsou dostatečně popisná pro asistenční pomůcky ("Editovat...co?")
-* Dynamický obsah je přidáván nebo odstaraňován ze stránky bez ohlášení změny asistenčním pomůckám
+* Dynamický obsah je přidáván nebo odstraňován ze stránky bez ohlášení změny asistenčním pomůckám
 * Obsah, který nedává smysl mimo kontext, nebo neobsahuje vůbec žádné vysvětlení
 * Chybějící landmarky HTML. To znamená, banner, navigation, main, aside, footer prvky, nebo divy s role atributy.
 * Nevhodné nadpisy, zanořování
