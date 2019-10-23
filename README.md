@@ -15,11 +15,11 @@
 
 ## Big Thank you
 To all these amazing people that did the hard work to make it easier:
-https://github.com/alphagov
-https://github.com/18F
-https://github.com/ongov
-https://github.com/nhsuk
-https://github.com/coopdigital
-https://github.com/UKHomeOffice
-https://github.com/usds
-https://github.com/argob
+* [Government Digital Service](https://github.com/alphagov)
+* [18F](https://github.com/18F)
+* [Government of Ontario](https://github.com/ongov)
+* [NHS](https://github.com/nhsuk)
+* [Co-op](https://github.com/coopdigital)
+* [UK Home Office](https://github.com/UKHomeOffice)
+* [U.S. Digital Service](https://github.com/usds)
+* [República Argentina](https://github.com/argob)
