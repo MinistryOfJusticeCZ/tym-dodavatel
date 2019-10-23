@@ -71,4 +71,4 @@ Uveďte lidi, kteří pro každou roli. **Uveďte primární telefonní číslo 
 - Ponaučení
 *Zjistili jste něco, co chcete, aby si týmy po vás do budoucna zapamatovali? Zdokumentujte je zde.*
 
-**[Nezapomeňte přidat odkaz do své výzkumné složky do trackeru pro výzkum](discovery/vyzkum-historie-sablona.md)**
+**[Nezapomeňte přidat odkaz do své výzkumné složky do trackeru pro výzkum](vyzkum-historie-sablona.md)**

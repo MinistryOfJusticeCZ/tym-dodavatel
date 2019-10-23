@@ -2,7 +2,7 @@
 
 ## Logistika moderátora
 
-*Ujistěte se, že má pozorovatel před sessionou připravenou [šablonu pro pozorovatele](https://github.com/MinistryOfJusticeCZ/tym-dodavatel/blob/master/discovery/pozorovatel-test-sablona.docx)*
+*Ujistěte se, že má pozorovatel před sessionou připravenou [šablonu pro pozorovatele](pozorovatel-test-sablona.docx)*
 
 *Když je účastník připraven, začněte sessionu Úvodem*
 

@@ -2,7 +2,7 @@ Zkopírujte a vložte tento dokument do vaši projektové složky a vyplňte ho.
 
 # Šablona Popis a plán discovery projektu
 
-Tento dokument by měl být vyplňován během různých fázích discovery sprintu. Pro více informací k celému procesu se podívejte na [Jak na discovery sprint](discovery/jak-na-discovery-sprint.md).
+Tento dokument by měl být vyplňován během různých fázích discovery sprintu. Pro více informací k celému procesu se podívejte na [Jak na discovery sprint](jak-na-discovery-sprint.md).
 
 ## POPIS PROJEKTU
 _Před začátkem discovery vyplňte s portfolio manažerem_
@@ -17,7 +17,7 @@ Jaký problém se snažíme vyřešit? Proč to děláme? (zaměřte se na probl
 _Jednoslovný, úderný název (například, DUHA)_
 
 ### Role v týmu
-Podívejte se na to [jak sestavit Discovery Sprint Tým](discovery/jak-na-discovery-sprint.md#sestaveni-discovery-sprint-tymu).
+Podívejte se na to [jak sestavit Discovery Sprint Tým](jak-na-discovery-sprint.md#sestaveni-discovery-sprint-tymu).
 
 * Produktový manažer:
 * Vedoucí discovery sprintu:
@@ -48,7 +48,7 @@ _Vyplněno Discovery Sprint Týmem_
 
 
 ### Timeline
-Podívejte se na [ukázku rozpisu discovery sprintu](discovery/discovery-sprint-rozpis.md).
+Podívejte se na [ukázku rozpisu discovery sprintu](discovery-sprint-rozpis.md).
 
 * Existují nějaké pevné a rychlé termíny pro dokončení discovery?
 * Kdy se bude konat následující?

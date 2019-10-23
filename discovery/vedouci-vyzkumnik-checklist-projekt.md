@@ -1,10 +1,10 @@
 # End-to-end checklist výzkumníka/designéra: Výzkumné projekty
 
 ## Checklist před výzkumem
-- [ ] Dokončen [Plán výzkumu](discovery/vyzkum-plan-sablona.md)
+- [ ] Dokončen [Plán výzkumu](vyzkum-plan-sablona.md)
 - [ ] Věc, kterou testujete je připravena (high- nebo low-fidelity prototypy, webové stránky, card sort, tree test, atd.) 
 - [ ] Zvolení vhodného designéra nebo výzkumníka, který povede rozhovory  
-- [ ] Vytvořte na základě šablony [průvodce rozhovory](discovery/pruvodce-rozhovorem-sablona.md). Přidejte odkaz do Plánu výzkumu a issues na Gitu
+- [ ] Vytvořte na základě šablony [průvodce rozhovory](pruvodce-rozhovorem-sablona.md). Přidejte odkaz do Plánu výzkumu a issues na Gitu
 - [ ] Určete jak/jestli budete sessionu nahrávat (pokud bude osobně, bude to videonahrávka? Audio? Jitsi?)
 
 ## Před sessionami
@@ -34,7 +34,7 @@
 - [ ] Proveďte analýzu zjištění
 - [ ] Spolupracujte s týmem Ministerstva spravedlnosti na vkládání issues do Gitu
 - [ ] Jakýkoliv potřebné věci vytvořte jako ticket na helpdesku
-- [ ] Aktualizujte [historii výzkumu](discovery/vyzkum-historie-ukazky.md)
+- [ ] Aktualizujte [historii výzkumu](vyzkum-historie-ukazky.md)
 
 ## Závěrem
 - [ ] Iterativně tvořte prezentaci s výsledky výzkumu
