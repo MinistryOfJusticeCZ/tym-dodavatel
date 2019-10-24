@@ -63,7 +63,7 @@ Uveďte lidi, kteří pro každou roli. **Uveďte primární telefonní číslo 
 - Poznámky a nahrávky
 *Poznámky k sessionám a nahrávky by měly být uloženy v příslušné složce, odkažte.*
 
-- Analýza
+- Analýza a syntéza
 *Odkaz na všechny dokumenty používané pro analýzu (nástěnné desky nebo Realtime (Miro) nástěnky, excel listy, další datové výstupy atd.)*
 
 - Ponaučení

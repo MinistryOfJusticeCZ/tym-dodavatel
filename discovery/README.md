@@ -5,6 +5,7 @@
 ### Před samotným discovery 
 
 - [ ] Spolupracujte s portfolio manažerem na kopii [Šablony Popisu a plánu Discovery projektu](popis-plan-discovery-projekt-sablona.md) a vyplňte sekci Popis projektu
+- [ ] Začněte s vyplňováním [Šablony Plánu výzkumu](vyzkum-plan-sablona.md)
 - [ ] Spolupracujte s určeným týmem na Ministerstvu spravedlnosti k zabookování časů pro uživatelské výzkumy
 
 ### Plánování Discovery sprintu

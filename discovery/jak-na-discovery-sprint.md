@@ -63,7 +63,7 @@ V ideálním případě by členové týmu měli být dedikováni **po celou dob
 
 ### Plánování Discovery sprintu
 
-Aby se maximalizovala účinnost během sprintu, měl by se vedoucí Discovery Týmu připravit na sprint 1 až 2 týdny předem. Tým by se měl setkat alespoň jednou předtím, než sprint začne začnou potkávat pravidlně. 
+K maximalizaci účinnosti během sprintu, by se vedoucí Discovery Týmu měl připravit na sprint 1 až 2 týdny předem. Tým by se měl setkat alespoň jednou předtím, než sprint začne a začne se potkávat pravidlně. 
 
 #### Checklist:
 - [ ] Pro dokumentaci cílů, předpokladů, metod, seznam stakeholderů dokončete [Šablonu Popisu a plánu Discovery projektu](popis-plan-discovery-projekt-sablona.md), kterou jste začali během pre-discovery fáze
@@ -103,7 +103,7 @@ Ideálně na poslední den sprintu nebo na začátek následujícího týdne.
 
 - [ ] Odprezentujte [Výsledky discovery](discovery-vysledky-sablona.pptx) vedoucím projektu, a zbytku týmu o provedené práci, současném stavu, potenciálních obavách, oblastech pro příležitosti, zjištění a doporučení + další kroky
 - [ ] Začněte se sepisováním [Charty](/charta.md) a pošlete je vedoucímu projektu
-- [ ] Proveďte discovery sprint retrospektivu
+- [ ] Proveďte retrospektivu discovery sprintu
 - [ ] Ukončete a ukliďte dokumentaci / projekt na Gitu. Ujistěte se, že veškeré dokumenty jsou v Gitu, issues jsou zavřené, a tak dále
 - [ ] S vedoucím projektu dokončete Chartu a dohodněte se, kdo bude prezentovat výsledky stakeholderům
 
