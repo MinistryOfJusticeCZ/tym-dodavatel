@@ -23,8 +23,6 @@ TODO
 
 ### Krok 3: Definujte URL adresy
 
-
-
 ## Požadavek na IA Review
 
 1. Vytvořte issue do ```složky [NÁZEV_PROJEKTU]/[NÁZEV_PROJEKTU]-tym-dodavatel``` na Gitu
@@ -43,7 +41,7 @@ TODO
     * Cílem Týmu Ministerstva je zajistit, aby vaše služba nekolidovala s existujícími službami
 3. Tým Ministerstva aktualizuje issue, pokud bude potřeba nějakých změn
 4. Dokončete všechny požadované změny v nově aktualizovaném issue
-     * Pokud má váš tým dotazy (nebo nesouhlasí s požadovanou změnou), vytvořte issue
+    * Pokud má váš tým dotazy (nebo nesouhlasí s požadovanou změnou), vytvořte issue
 5. Po dokončení všech změn issue uzavřete
 6. Po uzavření issue se tato aktivita za dokončenou
 

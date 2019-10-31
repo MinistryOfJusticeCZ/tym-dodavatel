@@ -5,10 +5,10 @@
 * Všechny aplikace Ministerstva spravedlnosti zahrnují telefonní číslo nebo e-mail, kam se uživatelé mohou obrátit ohledně otázek fungování aplikace
 * **Před spuštěním aplikací (nebo nových funkcí) musí Tým dodavatele zaslat Dokumentaci k produktu a Video k produktu. Tím zajistí, že bude helpdesk a tým rozvoje připraven odpovídat na otázky týkající se funkčnosti**
 * **Tým dodavatele by měl požádat o review Dokumentace k produktu, když**
-  1. Kompletní a final build je na staging a Tým si je jist, že je vše připraveno ke spuštění do ostrého provozu
-  2. Poté, co dokončil kroky v sekce [Připravte se na review Dokumentace](#pripravte-se-na-review-dokumentace) a
-  3. Nejméně 2 týdny před datem spuštění do ostrého provozu
-    * Pokud si váš tým myslí, že bude mít potíže s dodržením termínu „2 týdny před spuštěním“, obraťte se na svůj kontakt v Týmu Ministerstva spravedlnosti
+  1. Kompletní a final build je na staging a Tým si je jist, že je vše připraveno ke spuštění do ostrého provozu
+  2. Poté, co dokončil kroky v sekce [Připravte se na review Dokumentace](#pripravte-se-na-review-dokumentace) a
+  3. Nejméně 2 týdny před datem spuštění do ostrého provozu
+    * Pokud si váš tým myslí, že bude mít potíže s dodržením termínu „2 týdny před spuštěním“, obraťte se na svůj kontakt v Týmu Ministerstva spravedlnosti
 
 ## Připravte se na review Dokumentace
 
@@ -50,7 +50,7 @@ TODO
     * Přiřaďte problém/Assignee: ```hlavsa```
     * Komentář: Uveďte následující informace
       * **Kontext**: Poskytněte kontext projektu
-        * např. ```Funkčnost přidává nový dataset, takže uživatelé mohou vyhledávat a prohlížet svůj stav na mapě.```
+        * např. ```Funkčnost přidává nový dataset, takže uživatelé mohou vyhledávat a prohlížet svůj stav na mapě.```
       * **URL**: ```odkaz na projekt na stagingu```
       * **Dokumentace k produktu**: ```odkaz na Dokumentaci k produktu na Git```
       * **Video k produktu**: ```odkaz na Video k produktu```

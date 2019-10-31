@@ -4,10 +4,10 @@
 
 * **Všechny týmy pracující na službách pro Ministerstvo spravedlnosti musí integrovat Google Analytics do svých služeb**
 * **Tým dodavatele by měly o Google Analytics požádat, když:**
-  * Kompletní a final build je na staging a je si jist, že je připraven ke spuštění.
-  * Nejméně 4 týdny před plánovaným datem zahájení:
-    - nutná koordinace s týmem Ministerstvem spravedlnosti
-    - potřeba validace na stagingu
+  * Kompletní a final build je na staging a je si jist, že je připraven ke spuštění.
+  * Nejméně 4 týdny před plánovaným datem zahájení:
+    - nutná koordinace s týmem Ministerstvem spravedlnosti
+    - potřeba validace na stagingu
 
 ### Připravte se na Google Analytics
 
@@ -24,16 +24,16 @@ Odpovězte na následující otázky v dokumentu Word:
 ### Požadavek na Google Analytics
 
 1. Vytvořte issue do ```složky [NÁZEV_PROJEKTU]/[NÁZEV_PROJEKTU]-tym-dodavatel``` na Gitu
-    * Název/Title: ```Požadavek na Google Analytics```
-    * Štítky/Labels:
-      * ```analytics```
-      * ```externi-pozadavek```
-      * ```[label vašeho týmu]```, např. „DUHA“
-    * Přiřaďte problém/Assignee: ```hlavsa```
-    * Popis/Description: Uveďte následující informace:
-      * **Kontext:** Poskytněte kontext projektu
-        * např. ```Funkčnost přidává nový dataset, takže uživatelé mohou vyhledávat a prohlížet svůj stav na mapě.```
-      * **URL:** ```odkaz na váš projekt na staging```
+    * Název/Title: ```Požadavek na Google Analytics```
+    * Štítky/Labels:
+      * ```analytics```
+      * ```externi-pozadavek```
+      * ```[label vašeho týmu]```, např. „DUHA“
+    * Přiřaďte problém/Assignee: ```hlavsa```
+    * Popis/Description: Uveďte následující informace:
+      * **Kontext:** Poskytněte kontext projektu
+        * např. ```Funkčnost přidává nový dataset, takže uživatelé mohou vyhledávat a prohlížet svůj stav na mapě.```
+        * **URL:** ```odkaz na váš projekt na staging```
       * **Přílohy:** ```Nahrajte Word dokument, který jste vyplnili podle otázek výše```
 2. **Do 4 pracovních dnů** Tým Ministerstva spravedlnosti předá požadavek příslušnému členu týmu, aby vám zajistil přístup
     * Pokud se do 4 pracovních dnů nic nestane, obraťte se na svůj kontakt na Ministerstvu
@@ -62,17 +62,17 @@ Pokud váš tým bude i **po spuštění** neustále vylepšovat (nebo udržovat
 Pokud chcete tyto účty vytvořit:
 
 1. Vytvořte issue do ```složky [NÁZEV_PROJEKTU]/[NÁZEV_PROJEKTU]-tym-dodavatel``` na Gitu
-    * Název/Title: ```Provision Google Analytics```
-    * Štítky/Labels:
-      * ```analytics```
-      * ```externi-pozadavek```
-      * ```[label vašeho týmu]```, např. „DUHA“
-    * Přiřaďte problém/Assignee: ```hlavsa```
-    * Popis/Description: Uveďte následující informace:
-      * **Kontext:** Poskytněte kontext projektu
-        * např. ```Seznam účtů na Google Analytics společně s jmény osob a jejich e-mailových adres.```
+    * Název/Title: ```Provision Google Analytics```
+    * Štítky/Labels:
+      * ```analytics```
+      * ```externi-pozadavek```
+      * ```[label vašeho týmu]```, např. „DUHA“
+    * Přiřaďte problém/Assignee: ```hlavsa```
+    * Popis/Description: Uveďte následující informace:
+      * **Kontext:** Poskytněte kontext projektu
+        * např. ```Seznam účtů na Google Analytics společně s jmény osob a jejich e-mailových adres.```
 2. **Do 4 pracovních dnů** Tým Ministerstva spravedlnosti zřídí tyto účtu, abyste mohli začít používat Google Analytics
-    * Pokud se do 4 pracovních dnů nic nestane, obraťte se na svůj kontakt na Ministerstvu
+    * Pokud se do 4 pracovních dnů nic nestane, obraťte se na svůj kontakt na Ministerstvu
 3. Ve chvíli, kdy Ministerstvo tyto účty zřídí, tak
     * Přidá komentář k issue: ```Google Analytics účty zřízeny```
     * Zavře issue

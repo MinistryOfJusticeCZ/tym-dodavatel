@@ -20,20 +20,20 @@
 
 1. Vytvořte [požadavek na review přístupnosti před spuštěním služby](https://github.com/MinistryOfJusticeCZ/tym-dodavatel/issues/new?labels=př%C3%ADstupnost%2C+review%2C+extern%C3%AD+tým&template=pristupnost-review-sablona.md&title=Požadavek+na+review+př%C3%ADstupnosti+pro+NÁZEV_PRODUKTU)
 2. **Během 5 pracovních dnů**, Tým Ministerstva zkontroluje váš kód a dá vám vědět výsledky
-   - Pokud se do 5 pracovních dnů nic nestane, obraťte se na svůj kontakt na Ministerstvu
+    - Pokud se do 5 pracovních dnů nic nestane, obraťte se na svůj kontakt na Ministerstvu
 3. _Jsou-li nalezeny problémy_, Tým Ministerstva vytvoří nové issue pro každý nalezený problém s přístupností
-   - Issues budou přiděleny osobě, která je vytvořila v kroku 3
-   1. Každé issue popisuje konkrétní změny potřebné k tomu, aby byl kód přístupný - co je problém, kde se problém vyskytuje, jak jej opravit a závažnost problému
-   2. **Očekává se, že váš tým provede všechny změny před spuštěním** Ve chvíli, kdy Tým dodavatele změny dokončí, aktualizuje každé issue následujícím komentářem
-      - `Změny v tomto kódu jsou dokončené [odkaz na staging]`
-   3. Zavřete všechny issues
-   4. Po zavření všech issues se tato aktivita považuje za dokončenou
-   5. Tým Ministerstva poté dělá [Krok 3](#krok-3-review-ministerstva).
+    - Issues budou přiděleny osobě, která je vytvořila v kroku 3
+  1. Každé issue popisuje konkrétní změny potřebné k tomu, aby byl kód přístupný - co je problém, kde se problém vyskytuje, jak jej opravit a závažnost problému
+  2. **Očekává se, že váš tým provede všechny změny před spuštěním** Ve chvíli, kdy Tým dodavatele změny dokončí, aktualizuje každé issue následujícím komentářem
+      - `Změny v tomto kódu jsou dokončené [odkaz na staging]`
+  3. Zavřete všechny issues
+  4. Po zavření všech issues se tato aktivita považuje za dokončenou
+  5. Tým Ministerstva poté dělá [Krok 3](#krok-3-review-ministerstva).
 4. _Nejsou-li nalezeny žádné problémy_,
-   1. Tým Ministerstva aktualizuje původní issue tímto komentářem: „Nebyly nalezeny žádné problémy“
-   2. Tým Ministerstva issue uzavře
-   3. Git pošle tvůrci issue oznámení. To je signál pro Tým dodavatele, že je tato aktivita dokončena.
-   - Tým Ministerstva poté dělá [Krok 3](#krok-3-review-ministerstva)
+  1. Tým Ministerstva aktualizuje původní issue tímto komentářem: „Nebyly nalezeny žádné problémy“
+  2. Tým Ministerstva issue uzavře
+  3. Git pošle tvůrci issue oznámení. To je signál pro Tým dodavatele, že je tato aktivita dokončena.
+    - Tým Ministerstva poté dělá [Krok 3](#krok-3-review-ministerstva)
 
 ## Krok 3: Review Ministerstva
 
@@ -44,11 +44,10 @@ Protože veškerý kód na Ministerstvu spravedlnosti prochází přísným manu
 2. Zkontroluje kód a poskytne zpětnou vazbu / pokyny Týmu dodavatele
 
 3. Ministerstvo spravedlnosti může požadovat další změny vašeho kódu. Pokud k tomu dojde, Tým Ministerstva vytvoří nové issue pro každý problém s přístupností.
-   - Issues budou přiděleny osobě, která je vytvořeny v [počátečním přezkumu v Kroku 2](#krok-2-pozadavek-na-review-pristupnosti).
-   - Každý problém popisuje konkrétní změny potřebné k zajištění souladu se zákonem 99/2019 - jaký je problém, kde se problém vyskytuje, jak jej opravit a závažnost problému.
+    - Issues budou přiděleny osobě, která je vytvořeny v [počátečním přezkumu v Kroku 2](#krok-2-pozadavek-na-review-pristupnosti).
+    - Každý problém popisuje konkrétní změny potřebné k zajištění souladu se zákonem 99/2019 - jaký je problém, kde se problém vyskytuje, jak jej opravit a závažnost problému.
 
 4. **Očekává se, že váš tým provede všechny změny co nejrychleji, například v příštím sprintu po obdržení požadovaných změn.**
-   - Po dokončení změn aktualizujte každé issue následujícím komentářem?
-     - `Změny v tomto kódu jsou dokončené [odkaz na staging]`
-   - **NEZAVÍREJTE** issue
-   - Tým Ministerstva spravedlnosti potvrdí změny a zavře issue
+    - Po dokončení změn aktualizujte každé issue následujícím komentářem: `Změny v tomto kódu jsou dokončené [odkaz na staging]`
+    - **NEZAVÍREJTE** issue
+    - Tým Ministerstva spravedlnosti potvrdí změny a zavře issue

@@ -9,24 +9,24 @@
 ## Požádejte o Design QA
 
 1. Vytvořte issue do ```složky [NÁZEV_PROJEKTU]/[NÁZEV_PROJEKTU]-tym-dodavatel``` na Gitu
-    * Název/Title: ```Požadavek na Design QA```
-    * Štítky/Labels:
-      * ```design```
-      * ```externi-pozadavek```
-      * ```[label vašeho týmu]```, např. „DUHA“
-    * Přiřaďte problém/Assignee: ```hlavsa```
-    * Popis/Description: Uveďte následující informace:
-      * **Kontext:** Poskytněte kontext projektu
-        * např. ```Funkčnost přidává nový dataset, takže uživatelé mohou vyhledávat a prohlížet svůj stav na mapě.```
-      * **URL:** ```odkaz na váš projekt na staging```
-      * **Nové design patterny (pokud existují):** Poznamenejte místa, kde jste vytvořili a použili nové design patterny (pokud existují)
-      * **Design challenges (pokud existují):** Poznamenejte neobvyklé nebo složité problémy s designem, které jste v této práci potřebovali vyřešit.
-      * TODO - zde příklad
+    * Název/Title: ```Požadavek na Design QA```
+    * Štítky/Labels:
+      * ```design```
+      * ```externi-pozadavek```
+      * ```[label vašeho týmu]```, např. „DUHA“
+    * Přiřaďte problém/Assignee: ```hlavsa```
+    * Popis/Description: Uveďte následující informace:
+      * **Kontext:** Poskytněte kontext projektu
+        * např. ```Funkčnost přidává nový dataset, takže uživatelé mohou vyhledávat a prohlížet svůj stav na mapě.```
+      * **URL:** ```odkaz na váš projekt na staging```
+      * **Nové design patterny (pokud existují):** Poznamenejte místa, kde jste vytvořili a použili nové design patterny (pokud existují)
+      * **Design challenges (pokud existují):** Poznamenejte neobvyklé nebo složité problémy s designem, které jste v této práci potřebovali vyřešit.
+      * TODO - zde příklad
 2. **Do 4 pracovních dnů** Tým Ministerstva spravedlnosti provede Design QA pomocí [Kontrolního seznamu níže](#design-qa-checklist)
-    * Pokud se do 4 pracovních dnů nic nestane, obraťte se na svůj kontakt na Ministerstvu
+    * Pokud se do 4 pracovních dnů nic nestane, obraťte se na svůj kontakt na Ministerstvu
 3. Tým ministerstva spravedlnosti aktualizuje issue pomocí snímků obrazovky a ukáže vám, kde je třeba změnit design
 4. Dokončete všechny požadované změny na přiložených snímcích obrazovky
-    * Pokud má váš tým dotazy (nebo nesouhlasí s požadovanou změnou), použijte issue na Gitu
+    * Pokud má váš tým dotazy (nebo nesouhlasí s požadovanou změnou), použijte issue na Gitu
 5. Po vypořádání všech změn, problém uzavřete
 6. Po uzavření issue přijde tvůrci issue notifikace, tím se tato aktivita považuje za dokončenou
 
