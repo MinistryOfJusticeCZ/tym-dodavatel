@@ -44,7 +44,7 @@ Vyberte, zda budete dělat dvou nebo jedno týdenní sprint a vyplňte informace
 
 ## 2-týdenní rozpis sprintu
 
-### Týden 1: Masivní přetížení informacemi
+### Týden 1: Velké přesycení informacemi
 
 **Pondělí**
 
@@ -64,7 +64,7 @@ Vyberte, zda budete dělat dvou nebo jedno týdenní sprint a vyplňte informace
 
 **Středa**
 
-- Pokračování s rozhovory; pokud potřebujete více informací, požádejte o další
+- Pokračování s rozhovory; pokud potřebujete více informací, požádejte o další účastníky
 
 **Čvrtek**
 
@@ -82,7 +82,7 @@ Vyberte, zda budete dělat dvou nebo jedno týdenní sprint a vyplňte informace
 
 ### Týden 2
 
-- Běžte více do hloubky otázek, které vyvstali ze syntézy prvního týdne. Najděte na ně odpovědi.
+- Běžte více do hloubky otázek, které vyvstaly ze syntézy prvního týdne. Najděte na ně odpovědi.
 - Informujte další lidi, které chcete vidět
 - Začněte formulovat doporučení/vytvářet interní prezentace
 
@@ -102,7 +102,7 @@ Vyberte, zda budete dělat dvou nebo jedno týdenní sprint a vyplňte informace
 **Wednesday**
 
 - Pokračujte s Chartou
-- Začněte s přípravou prezentace Výsledků discovery fáze
+- Začněte s přípravou prezentace Výsledky discovery sprintu
 - Zhodnoťte doporučení a ostatní zpětnou vazbu
 
 **Čvrtek**

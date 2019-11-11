@@ -10,8 +10,8 @@
 ## Metoda
 
 1. Jaký způsob výzkumu plánujete?
-  - **Ukázkové metodiky**: Přímé rozhovory; etnografické rozhovory; pozorování; card sorting; stromové testy; partyzánské (guerilla) testování použitelnosti; testování použitelnosti s prototypy (low- nebo high-fidelity); akceptační uživatelské testy.
-  - **Zároveň uveďte:** jsou moderované osobně, vzdáleně, vzdáleně nemoderované?
+  - **Ukázkové metodiky**: Přímé rozhovory; etnografické rozhovory; pozorování; card sorting; stromové testy; partyzánské (guerilla) testování použitelnosti; testování použitelnosti s prototypy (low- nebo high-fidelity); akceptační uživatelské testy.
+  - **Zároveň uveďte:** jsou moderované osobně, vzdáleně, vzdáleně nemoderované?
   
 2. Proč tato metoda? Jak vám tato metodika pomůže odpovědět na vaše otázky během výzkumu?
 

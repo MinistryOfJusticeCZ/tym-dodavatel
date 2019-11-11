@@ -8,7 +8,7 @@ Tento dokument by měl být vyplňován během různých fázích discovery spri
 _Před začátkem discovery vyplňte s portfolio manažerem_
 
 ### Název projektu
-_Zkrácený název projektu (například, „Ověření osob", „aplikace pro osoby se zdravotním postižením“, „navigátor benefity)_
+_Zkrácený název projektu (například, „Ověření osob", „aplikace pro osoby se zdravotním postižením“, „navigátor benefity“)_
 
 ### Definice problému / Jak bychom mohli
 Jaký problém se snažíme vyřešit? Proč to děláme? (zaměřte se na problémy, ne možná řešení)
@@ -48,13 +48,13 @@ _Vyplněno Discovery Sprint Týmem_
 
 
 ### Timeline
-Podívejte se na [ukázku rozpisu discovery sprintu](discovery-sprint-rozpis.md).
+Podívejte se na [ukázku rozpisu discovery sprintu](discovery-sprint-rozpis-ukazka.md).
 
 * Existují nějaké pevné a rychlé termíny pro dokončení discovery?
 * Kdy se bude konat následující?
-  * Discovery příprava:
-  * Discovery (ideálně 1-2 týdny):
-  * Výzkum uživatelů:
+  * Discovery příprava:
+  * Discovery (ideálně 1-2 týdny):
+  * Výzkum uživatelů:
   * Zakončení a předání výsledků:
 
 ## Po dokončení

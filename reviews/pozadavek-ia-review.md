@@ -14,7 +14,6 @@ Pokud budujete novou službu, musíte ji pojmenovat.
 
 * Název služby otestujte s uživateli
 
-
 ### Krok 2: Definujte Informační architekturu
 
 IA určuje, kde v ekosystému Ministerstva spravedlnosti bude služba žít, jak se uživatelé ke navigují a jak se uživatelé navigují v rámci vaší služby.
@@ -22,6 +21,25 @@ IA určuje, kde v ekosystému Ministerstva spravedlnosti bude služba žít, jak
 TODO
 
 ### Krok 3: Definujte URL adresy
+
+TODO
+
+
+#### Pokyny pro vytváření URL adres
+
+
+TODO
+
+### Krok 4: Otestujte navrhovanou Informační architekturu s uživateli
+
+* Pro otestování navržené Informační architektury, kterou jste definovali v [Kroku 2](#krok-2-definujte-informacni-architekturu) a URL adresy, které jste definovali v [Kroku 3](#krok-3-definujte-url-adresy), použijte card sorting, tree testing, nebo hloubkové rozhovory.
+
+### Krok 5: Definujte meta description
+
+Definujte meta description stránky pro každou stránku/obrazovku ve vaší službě
+
+* Udržte popis krátký: 1 až 2 věty
+* Popište tu nejdůležitější věc, kterou uživatele může na stránce/obrazovce udělat
 
 ## Požadavek na IA Review
 
